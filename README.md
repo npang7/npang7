@@ -9,15 +9,14 @@
 
 ## About me
 
-I'm an M.S. student in Mobile and Internet of Things Engineering at Carnegie Mellon University.
+I'm an M.S. student in Mobile and Internet of Things Engineering at Carnegie Mellon University, interested in backend engineering, systems programming, and AI systems.
 
-I earned a B.S. in Computer Engineering from the UIUC and a Bachelor of Engineering in Electronic and Computer Engineering from Zhejiang University.
+I hold a B.S. in Computer Engineering from UIUC and a Bachelor of Engineering in Electronic and Computer Engineering from Zhejiang University.
 
-My interests include backend engineering, systems programming, and AI systems.
-
-## Languages
+## Skills
 
 <p>
+  <strong>Languages:</strong>
   <img src="assets/python.svg" alt="Python" height="28" />
   <img src="assets/java.svg" alt="Java" height="28" />
   <img src="assets/cpp.svg" alt="C++" height="28" />
@@ -26,29 +25,24 @@ My interests include backend engineering, systems programming, and AI systems.
   <img src="assets/sql.svg" alt="SQL" height="28" />
 </p>
 
-## Tech stack
-
-**Backend & Data**
-
 <p>
+  <strong>Backend &amp; Data:</strong>
   <img src="assets/fastapi.svg" alt="FastAPI" height="28" />
   <img src="assets/postgresql.svg" alt="PostgreSQL" height="28" />
   <img src="assets/redis.svg" alt="Redis" height="28" />
   <img src="assets/sqlite.svg" alt="SQLite" height="28" />
 </p>
 
-**Machine Learning**
-
 <p>
+  <strong>Machine Learning:</strong>
   <img src="assets/pytorch.svg" alt="PyTorch" height="28" />
   <img src="assets/numpy.svg" alt="NumPy" height="28" />
   <img src="assets/pandas.svg" alt="pandas" height="28" />
   <img src="assets/scikit-learn.svg" alt="scikit-learn" height="28" />
 </p>
 
-**Tools**
-
 <p>
+  <strong>Tools:</strong>
   <img src="assets/linux.svg" alt="Linux" height="28" />
   <img src="assets/git.svg" alt="Git" height="28" />
   <img src="assets/docker.svg" alt="Docker" height="28" />
