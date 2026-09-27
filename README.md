@@ -4,7 +4,7 @@
   <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="assets/line-dark.png" />
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/line-light.png" />
   <source media="(prefers-color-scheme: dark)" srcset="assets/line-dark.gif" />
-  <img src="assets/line-light.gif" alt="" width="480" />
+  <img src="assets/line-light.gif" alt="" width="100%" height="12" />
 </picture>
 
 ## About me
