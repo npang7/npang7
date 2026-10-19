@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm an M.S. student in Mobile and Internet of Things Engineering at Carnegie Mellon University, interested in backend engineering, systems programming, and AI systems.
+I'm an M.S. student in Computer Systems Networking and Telecommunications at Carnegie Mellon University, interested in backend engineering, systems programming, and AI systems.
 
 I hold a B.S. in Computer Engineering from UIUC and a Bachelor of Engineering in Electronic and Computer Engineering from Zhejiang University.
 
