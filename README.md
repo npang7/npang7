@@ -116,7 +116,7 @@ A FastAPI/PyTorch inference service with asynchronous batching, bounded admissio
 
 ### 🧩 Illinix — RISC-V Operating System
 
-🔗 [Source]((https://github.com/npang7/riscv-os))
+🔗 [Source]((https://github.com/npang7/riscv-os)
 
 
 A Unix-like operating-system project covering Sv39 virtual memory, preemptive scheduling, system calls, device drivers, and an inode-based file system.
