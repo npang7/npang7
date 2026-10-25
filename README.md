@@ -9,9 +9,11 @@
 
 ## About me
 
-I'm an M.S. student in Computer Systems Networking and Telecommunications at Carnegie Mellon University, interested in backend engineering, systems programming, and AI systems.
+I'm an M.S. student at Carnegie Mellon University, focused on backend engineering, distributed systems, and infrastructure.
 
-I hold a B.S. in Computer Engineering from UIUC and a Bachelor of Engineering in Electronic and Computer Engineering from Zhejiang University.
+My work spans backend services, fault-tolerant workflow runtimes, and operating systems, with an emphasis on reliability and performance.
+
+I hold a B.S. in Computer Engineering from the University of Illinois Urbana-Champaign and a Bachelor of Engineering in Electronic and Computer Engineering from Zhejiang University.
 
 ## Skills
 
@@ -26,27 +28,32 @@ I hold a B.S. in Computer Engineering from UIUC and a Bachelor of Engineering in
 </p>
 
 <p>
-  <strong>Backend &amp; Data:</strong>
+  <strong>Backend &amp; APIs:</strong>
   <img src="assets/fastapi.svg" alt="FastAPI" height="28" />
+  <img src="assets/flask.svg" alt="Flask" height="28" />
+  <img src="assets/nodejs.svg" alt="Node.js" height="28" />
+  <img src="assets/asyncio.svg" alt="asyncio" height="28" />
+</p>
+
+<p>
+  <strong>Databases &amp; Messaging:</strong>
   <img src="assets/postgresql.svg" alt="PostgreSQL" height="28" />
-  <img src="assets/redis.svg" alt="Redis" height="28" />
   <img src="assets/sqlite.svg" alt="SQLite" height="28" />
+  <img src="assets/redis.svg" alt="Redis" height="28" />
 </p>
 
 <p>
-  <strong>Machine Learning:</strong>
-  <img src="assets/pytorch.svg" alt="PyTorch" height="28" />
-  <img src="assets/numpy.svg" alt="NumPy" height="28" />
-  <img src="assets/pandas.svg" alt="pandas" height="28" />
-  <img src="assets/scikit-learn.svg" alt="scikit-learn" height="28" />
-</p>
-
-<p>
-  <strong>Tools:</strong>
-  <img src="assets/linux.svg" alt="Linux" height="28" />
-  <img src="assets/git.svg" alt="Git" height="28" />
+  <strong>Cloud &amp; Infrastructure:</strong>
   <img src="assets/docker.svg" alt="Docker" height="28" />
   <img src="assets/github-actions.svg" alt="GitHub Actions" height="28" />
+  <img src="assets/prometheus.svg" alt="Prometheus" height="28" />
+  <img src="assets/linux.svg" alt="Linux" height="28" />
+  <img src="assets/git.svg" alt="Git" height="28" />
+</p>
+
+<p>
+  <strong>Testing:</strong>
+  <img src="assets/pytest.svg" alt="pytest" height="28" />
 </p>
 
 ## Connect
